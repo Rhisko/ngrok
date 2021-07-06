@@ -1,5 +1,4 @@
-./ngrok authtoken 1uw9SetztSm9qnoyVuaiG3rFHUu_4H2KbJiEUoXWaqLyBR7Uv
-
+./ngrok authtoken xxxxxx
 unzip /path/to/ngrok.zip
 
 ./ngrok http https://localhost:9000
